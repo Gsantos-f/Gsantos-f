@@ -9,10 +9,10 @@
   
 ## ▨GitHub stats:
 
- <div>
+ <div align="center">
   <a href="https://github.com/Gsantos-f">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gsantos-f&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsantos-f&layout=compact&langs_count=6&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gsantos-f&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsantos-f&layout=compact&langs_count=6&theme=github_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
