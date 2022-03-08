@@ -9,7 +9,7 @@
   
 ## ▨GitHub stats:
 
- <div align="center" style="display: flex">
+ <div style="display: flex">
   <a href="https://github.com/Gsantos-f">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gsantos-f&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsantos-f&layout=compact&langs_count=6&theme=github_dark"/>
@@ -20,7 +20,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img align="right" alt="Jucs-pic" height="150" border_radius="50" src="https://c.tenor.com/7zKZuIk31GEAAAAC/bird-dance.gif" width="150" height="150">
+  <img align="right" alt="Jucs-pic" height="150" style="border-radius:100px;" src="https://c.tenor.com/7zKZuIk31GEAAAAC/bird-dance.gif" width="150" height="150">
 </div>
 
  ##
