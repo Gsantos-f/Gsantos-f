@@ -8,7 +8,7 @@
     💻Front-end developer<br/>
     📖Currently studying html CSS and Python<br/>
     🏙️Studying Interior Design (UEMA)<br/>
-    🌚Bacabal - MA<br/> 
+    🌚Bacabal - MA (Brazil) <br/> 
   </div>
   
 ## ▨GitHub status:
