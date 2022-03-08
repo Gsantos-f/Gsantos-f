@@ -1,17 +1,17 @@
-## ▨Bodia, Bem-vindo ao meu perfil. 🎈
+## ▨helloooooo, welcome to my profile. 🎈
 
 <div><br>
   <img align="right" alt="Jucs-pic" height="150" src="https://c.tenor.com/7zKZuIk31GEAAAAC/bird-dance.gif" width="140" height="150">
 </div>
 
   <div>
-    💻Desenvolvedor Front-end<br/>
-    📖Estudando atualmente html Css e Python<br/>
-    🏙️Cursando Design de Interiores (UEMA)<br/>
-    🌚Bacabal - MA<br/>
+    💻Front-end developer<br/>
+    📖Currently studying html CSS and Python<br/>
+    🏙️Studying Interior Design (UEMA)<br/>
+    🌚Bacabal - MA<br/> 
   </div>
   
-## ▨GitHub stats:
+## ▨GitHub status:
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
