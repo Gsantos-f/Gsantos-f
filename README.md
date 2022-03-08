@@ -22,12 +22,8 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="right" alt="Jucs-pic" height="150" border_radius="50" src="https://c.tenor.com/7zKZuIk31GEAAAAC/bird-dance.gif" width="150" height="150">
 </div>
- 
- <br>
- 
-  ### ▨Algumas das minhas redes sociais 📬: 
 
-  ##
+ ##
   
 <div> 
   <a href="https://instagram.com/Gsantos_f" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
