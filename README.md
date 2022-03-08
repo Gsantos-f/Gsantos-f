@@ -25,7 +25,7 @@
  <div style="display: flex">
   <a href="https://github.com/Gsantos-f">
   <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gsantos-f&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos-f&layout=compact&theme=github_dark"/>
+  <img height="180em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos-f&layout=compact&theme=github_dark"/>
 </div>
   
  ##
