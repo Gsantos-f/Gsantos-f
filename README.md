@@ -10,7 +10,7 @@
     🏙️Studying Interior Design (UEMA)<br/>
     🌚Bacabal - MA (Brazil) <br/> 
   </div>
-  
+
 ## ▨GitHub status:
 
 <div style="display: inline_block" align="center"><br>
@@ -24,8 +24,14 @@
  
  <div style="display: flex">
   <a href="https://github.com/Gsantos-f">
-  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gsantos-f&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos-f&layout=compact&theme=github_dark"/>
+  <img height="160em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Gsantos-f&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos-f&layout=compact&theme=react"/>
+</div>
+  
+ ##
+  
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsantos-f&theme=react&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
 </div>
   
  ##
@@ -35,7 +41,14 @@
   <a href = "mailto:gsantos.4dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-e83838?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/Nexus244/" target"_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><a/>
+</div>
+
+  ##
     
+<p align="center">
+<img src="https://user-images.githubusercontent.com/92805039/157175887-86e6dd4e-5855-4796-88bd-798930336fe0.gif"  alt="emoji-dance" />
+</p>   
+
   ##
  
   ![Snake animation](https://github.com/Gsantos-f/Gsantos-f/blob/output/github-contribution-grid-snake.svg)
