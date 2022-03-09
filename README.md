@@ -41,7 +41,7 @@
   <a href = "mailto:gsantos.4dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-e83838?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-dos-santos-662042234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/Nexus244/" target"_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"><a/>
-  <a href="https://github.com/Gsantos-f"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&rel=noopener"></a>
+  <a href="https://github.com/Gsantos-f" rel="noopener"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&rel=noopener"></a>
 </div>
 
   ##
