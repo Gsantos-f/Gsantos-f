@@ -5,10 +5,11 @@
 </div>
 
   <div>
-    💻Front-end developer<br/>
-    📖Currently studying html CSS and JavaScript<br/>
-    🏙️Studying Interior Design (UEMA)<br/>
-    🌚Bacabal - MA (Brazil) <br/> 
+    💻Front-end developer;<br/>
+    📖Currently studying html, CSS and JavaScript;<br/>
+    📘Studying Systems Development SENAI);</br>
+    🏙️Studying Interior Design (UEMA);<br/>
+    🌚Bacabal - MA (Brazil). <br/> 
   </div>
 
 ## ▨GitHub status:
