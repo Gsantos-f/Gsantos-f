@@ -23,9 +23,12 @@
  
  ##
   
-<div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsantos-f&theme=react&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="166"/>
+ <div style="display: flex">
+  <a href="https://github.com/Gsantos-f">
+  <img height="160em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos-f&layout=compact&theme=react"/>
 </div>
+  
+ ##
   
  ##
   
