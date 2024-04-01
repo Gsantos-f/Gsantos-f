@@ -38,12 +38,6 @@
 </div>
 
   ##
-    
-<p align="center">
-<img src="https://user-images.githubusercontent.com/92805039/157175887-86e6dd4e-5855-4796-88bd-798930336fe0.gif"  alt="emoji-dance" />
-</p>   
-
-  ##
  
   ![Snake animation](https://github.com/Gsantos-f/Gsantos-f/blob/output/github-contribution-grid-snake.svg)
 
