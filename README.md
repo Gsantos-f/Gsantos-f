@@ -23,7 +23,7 @@
  
  ##
   
- <div style="display: flex">
+ <div style="display: flex;" align="center">
   <a href="https://github.com/Gsantos-f">
   <img height="160em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos-f&layout=compact&theme=react"/>
 </div>
