@@ -1,45 +1,69 @@
-## ▨helloooooo, welcome to my profile. 🎈
+<img align="right" alt="Passarinho dançando" src="https://c.tenor.com/7zKZuIk31GEAAAAC/bird-dance.gif" width="140" height="150">
 
-<div><br>
-  <img align="right" alt="Jucs-pic" height="150" src="https://c.tenor.com/7zKZuIk31GEAAAAC/bird-dance.gif" width="140" height="150">
-</div>
+## 👋 Olá, eu sou o Gabriel dos Santos
 
-  <div>
-    💻Front-end developer;<br/>
-    📖Currently studying html, CSS and JavaScript;<br/>
-    📘Studying Systems Development (SENAI);</br>
-    🏙️Studying Interior Design (UEMA);<br/>
-    🌚Bacabal - MA (Brazil). <br/> 
-  </div>
+💻 Desenvolvedor **freelancer**: programas para Windows, apps e sites.<br>
+🎓 Estudei Desenvolvimento de Sistemas (SENAI) e Design de Interiores (UEMA).<br>
+📍 Bacabal - MA, Brasil.
 
-## ▨GitHub status:
+<br clear="right">
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
- </div>
- 
- ##
-  
- <div style="display: flex;" align="center">
-  <a href="https://github.com/Gsantos-f">
-  <img height="160em"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos-f&layout=compact&theme=react"/>
-</div>
-  
- ##
-  
-<div style="display: inline_block" align="center"> 
-  <a href="https://instagram.com/Gsantos_f" rel="noopener"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" rel="noopener"></a>
-  <a href = "mailto:gsantos.4dev@gmail.com" rel="noopener"><img src="https://img.shields.io/badge/-Gmail-e83838?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener"></a>
-  <a href="https://www.linkedin.com/in/gabriel-dos-santos-662042234/" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="noopener"></a> 
-  <a href="https://steamcommunity.com/id/Nexus244/" rel="noopener"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" rel="noopener"><a/>
-  <a href="https://github.com/Gsantos-f" rel="noopener"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&rel=noopener" rel="noopener"></a>
-</div>
+### 🛠️ Tecnologias
 
-  ##
- 
-  ![Snake animation](https://github.com/Gsantos-f/Gsantos-f/blob/output/github-contribution-grid-snake.svg)
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-</div>
+### 🚀 Projetos atuais
+
+> Projetos privados: o código não está aberto ao público.
+
+| Projeto | O que faz |
+|---|---|
+| **Concord** | App de conversa por texto, voz e transmissão de tela, feito com um grupo de amigos |
+| **NexusMIDI** | Toca um teclado MIDI (cabo ou Bluetooth) no computador e manda voz + teclado para o Discord |
+| **NexusMIDI Android** | Versão para Android do NexusMIDI |
+| **Gerador de Rifas** | Gera rifas por aluno (PDF/Excel) a partir de um modelo |
+| **Site Aridson e Jucilene** | Site de uma empresa de decorações e eventos |
+
+### 📊 Linguagens mais usadas
+
+<img alt="Linguagens mais usadas" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsantos-f&layout=compact&theme=react">
+
+### 📫 Contato
+
+<p>
+  <a href="https://instagram.com/Gsantos_f"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:gsantos.4dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-e83838?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://steamcommunity.com/id/Nexus244/"><img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+</p>
+
+---
+
+<details>
+<summary><b>🇺🇸 English</b></summary>
+
+## 👋 Hi, I'm Gabriel dos Santos
+
+💻 **Freelance** developer: Windows programs, apps and websites.<br>
+🎓 Studied Systems Development (SENAI) and Interior Design (UEMA).<br>
+📍 Bacabal - MA, Brazil.
+
+### 🚀 Current projects
+
+> Private projects: the source code is not public.
+
+| Project | What it does |
+|---|---|
+| **Concord** | Text, voice and screen-sharing chat app, built with a group of friends |
+| **NexusMIDI** | Plays a MIDI keyboard (cable or Bluetooth) on the PC and sends voice + keyboard to Discord |
+| **NexusMIDI Android** | Android version of NexusMIDI |
+| **Raffle Generator** | Generates raffle tickets per student (PDF/Excel) from a template |
+| **Aridson & Jucilene website** | Website for a decoration and events company |
+
+</details>
