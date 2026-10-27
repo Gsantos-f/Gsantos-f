@@ -1,6 +1,4 @@
-<img align="right" alt="Passarinho dançando" src="https://c.tenor.com/7zKZuIk31GEAAAAC/bird-dance.gif" width="140" height="150">
-
-## 👋 Olá, eu sou o Gabriel dos Santos
+## <picture><source media="(prefers-color-scheme: light)" srcset="passaro-claro.png"><img align="right" alt="Passarinho dançando" src="passaro-escuro.png" width="184" height="150"></picture> 👋 Olá, eu sou o Gabriel dos Santos
 
 💻 Desenvolvedor **freelancer**: programas para Windows, apps e sites.<br>
 🎓 Estudei Desenvolvimento de Sistemas (SENAI) e Design de Interiores (UEMA).<br>
